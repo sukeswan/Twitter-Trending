@@ -9,7 +9,7 @@ Analysis of Twitter's Trending Topics in Comparison to Top News Headlines
 
 `Dataset_README` - README from the original dataset 
 
-`Example Figure 1 and 2` - Example figures generated from interactive Google Facets data visualzation tool 
+`Example Figure 1 and 2` - Example figures generated from interactive Google Facets data visualzation tool are attached below. 
 
 `Headlines.csv` - headlines that were web scrapped. Use for a future project 
 
@@ -19,6 +19,11 @@ Analysis of Twitter's Trending Topics in Comparison to Top News Headlines
 
 `Twitter Trending Written Report.pdf` - full written report of results 
 
-
-
-
+--- 
+### Figure 1
+<img src="https://github.com/Donnie-Stewart/Twitter-Trending/blob/master/Example%20Figure%201.png" align="right"
+      width="350" height="750">
+--- 
+### Figure 2
+<img src="https://github.com/Donnie-Stewart/Twitter-Trending/blob/master/Example%20Figure%202.png" align="right"
+      width="350" height="750">
