@@ -13,13 +13,17 @@ Figure 1            |  Figure 2
 
 `tweets/` - folder contaning all tweet data 
 
-`Analysis of Twitter's Trending Topics.ipynb` - Jupyter notebook file with full intsructions on how to run code. Contains an interactive visualization of the data processed. For quick start up follow instructions below:
+`Analysis of Twitter's Trending Topics.ipynb` - Jupyter notebook file with full intsructions on how to run code. Contains an interactive visualization of the data processed. 
+
+For quick start up follow instructions below:
 
 - Fork this repository. 
 - Open Google Colaboratory. 
 - File > open > Github (tab) > your-username/Twitter-Trending > Analysis of Twitter's Trending Topics.ipynb 
 - WITHOUT running any of the cells, scroll to the output of the last cell (Facets chart should already be displayed when opening). 
 - This output is interactive and you can use your own parameters for visualizing the data.  
+
+Note the above works well for those curious on simply viewing the visualization of the data without making changes. Alternatively, you can clone the repo and run locally to have more hands on controls of the data. 
 
 `Dataset_README` - [README](https://github.com/Donnie-Stewart/Twitter-Trending/blob/master/Dataset_README) from the original dataset 
 
