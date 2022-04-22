@@ -22,9 +22,7 @@ Analysis of Twitter's Trending Topics in Comparison to Top News Headlines
 --- 
 Figure 1            |  Figure 2
 :-------------------------:|:-------------------------:
-<img src="https://github.com/Donnie-Stewart/Twitter-Trending/blob/master/figure%201.png" align="left"
-      width="600" height="250"> |  <img src="https://github.com/Donnie-Stewart/Twitter-Trending/blob/master/figure%202.png" align="right"
-      width="600" height="250">
+![](https://github.com/Donnie-Stewart/Twitter-Trending/blob/master/figure%201.png) |![](https://github.com/Donnie-Stewart/Twitter-Trending/blob/master/figure%202.png)  
 
 
 
