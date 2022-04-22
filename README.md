@@ -1,5 +1,5 @@
 # Twitter Trending
-Analysis of Twitter's Trending Topics in Comparison to Top News Headlines
+Analysis of 2011 Twitter's Trending Topics in Comparison to Top News Headlines. [Analysis of Twitter's Trending Topics.ipynb](https://github.com/Donnie-Stewart/Twitter-Trending/blob/master/Analysis%20of%20Twitter's%20Trending%20Topics.ipynb) contains code that processes and visualizes trending Twitter data based on the dataset described below. The [Poster](https://github.com/Donnie-Stewart/Twitter-Trending/blob/master/Twitter%20Trending%20Poster.pdf) and [Report](https://github.com/Donnie-Stewart/Twitter-Trending/blob/master/Twitter%20Trending%20Written%20Report.pdf) are included describing the motivation for the project, why interactive visualizations are advantageous, and what is ultimately gained by analzying trending Twitter data compared to news headlines. Today, the field of ethical machine learning continues to gain momentum causing data processing
 
 ## Files and Folders 
 
