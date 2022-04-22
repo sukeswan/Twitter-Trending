@@ -20,10 +20,13 @@ Analysis of Twitter's Trending Topics in Comparison to Top News Headlines
 `Twitter Trending Written Report.pdf` - full written report of results 
 
 --- 
-### Figure 1
-<img src="https://github.com/Donnie-Stewart/Twitter-Trending/blob/master/figure%201.png" align="center"
+### Figure 1            |  ### Figure 2
+:-------------------------:|:-------------------------:
+<img src="https://github.com/Donnie-Stewart/Twitter-Trending/blob/master/figure%201.png" align="left"
+      width="900" height="400"> |  <img src="https://github.com/Donnie-Stewart/Twitter-Trending/blob/master/figure%202.png" align="right"
       width="900" height="400">
---- 
-### Figure 2
-<img src="https://github.com/Donnie-Stewart/Twitter-Trending/blob/master/figure%202.png" align="center"
-      width="900" height="400">
+
+
+
+
+
